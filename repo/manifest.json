@@ -1,5 +1,5 @@
 {
-    "lastUpdated": 14605975360000,
+    "lastUpdated": 14605983490000,
     "parcels": [
         {
             "parcelName": "parquet_python-1.0.0+4ba595d-trusty.parcel",
@@ -8,7 +8,7 @@
         },
         {
         	"parcelName": "parquet_cpp_python-1.0.0-trusty.parcel",
-        	"hash": "d310859ea9583b39656ab1e10291605f90c0c970",
+        	"hash": "bd9dcbeda2f1fd7d278b7f0374e6a76400104846",
         	"components": []
         }
     ]
